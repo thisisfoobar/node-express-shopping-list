@@ -1,6 +1,6 @@
 global.items = [
-  { name: "Snickers", price: 1.5 },
-  { name: "Bananas", price: 0.75 },
+    // uncomment for manual testing
+    //{name: "Snickers",price: 3}
 ];
 
 module.exports = items;
